@@ -5,6 +5,6 @@ When you press CTRL + B (or whatever you set in the clear.plugin.js file), it hi
 ![](https://thumbs.gfycat.com/SpanishSkinnyBlackrhino-size_restricted.gif)
 
 ## Download
-[Raw file]()
+[Raw file](https://raw.githubusercontent.com/jadc/clear/master/clear.plugin.js)
 
 (ctrl + s on that page, then save it in your plugins server)
